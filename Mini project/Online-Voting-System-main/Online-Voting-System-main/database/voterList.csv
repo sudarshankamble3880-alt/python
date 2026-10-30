@@ -1,0 +1,14 @@
+,voter_id,Name,Gender,Zone,City,Passw,hasVoted
+0,10001,Deep,Male,West,Gandhinagar,abcd,1
+1,10002,Prachi,Female,South,Surat,abcd,0
+2,10003,Het,Male,East,Surat,abcd,1
+3,10004,Shivanshi,Female,East,Gandhinagar,abcd,0
+4,10005,Dev,Male,North,Ahmedabad,abcd,1
+5,10006,Atharva,Male,kolhapur,gs,dell123,1
+6,10007,AP,Female,kop,kagal,dell111,1
+7,10008,sagar,Male,kop,kagal,abcd,1
+8,10009,sandesh,Male,kolhapur,kanri,abc123,0
+9,10010,pranav Kamble ,Male,kolhapur,gokul Shirgoan,pk1234,1
+10,10011,Atharva Vedante,Male,Kohapur,Gokul Shirgoan,Atharva07,1
+11,10012,demo,Male,kholapur,shouth kholapur,Demo,0
+12,10013,Atharva,Male,kh,GS,pass,1
